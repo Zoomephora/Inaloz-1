@@ -1,0 +1,1 @@
+The multiplication of 2 integers works by multiplying the integers and making a product for example 2 x 10 = 30.
